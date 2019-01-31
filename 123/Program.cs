@@ -83,6 +83,7 @@ namespace ConsoleApp3
             Ajax.nextVillage = null;
             Ajax.previousVillage = Toronto;
 
+
         }
         public void LookForAstrilde()
         {
